@@ -13,10 +13,9 @@ A corporate website developed using WordPress and hosted on Hostinger.
 ## Tech Stack
 
 - WordPress
-- PHP
-- HTML/CSS
-- JavaScript
-- Hostinger Hosting
+- Elementor
+- Hostinger
+- HTML/CSS (minor customizations)
 
 ## My Contributions
 
